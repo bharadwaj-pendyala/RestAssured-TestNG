@@ -11,7 +11,7 @@ import net.minidev.json.JSONObject;
 
 import java.io.IOException;
 
-public class TestCreate {
+public class SlackAPITestCases {
 
     PropertiesManager prop;
     RequestSpecification request;

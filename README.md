@@ -12,3 +12,5 @@ Slack Workspace used for testing is: http://testplivoapi.slack.com
 
 Admin Credentials would be shared in email.
 
+TestCases could be triggered from testng.xml from root folder after editing Dynamic Test Data as mentioned in above steps.
+

@@ -3,7 +3,7 @@
 
     <test name="DemoTest">
         <classes>
-            <class name="test.TestCreate"></class>
+            <class name="test.SlackAPITestCases"></class>
         </classes>
     </test>
 </suite>
